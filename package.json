@@ -1,0 +1,16 @@
+{
+  "name": "socketserver",
+  "version": "1.0.0",
+  "main": "socketServer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "pidusage": "^3.0.2",
+    "ws": "^8.17.0"
+  }
+}
